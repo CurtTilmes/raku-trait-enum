@@ -42,7 +42,7 @@ The trait can only be added on attributes named with the prefix 'enum-'. It adds
 
 Naturally this trait must be used only with integer fields (int32, int16, etc.)
 
-If the attribute is also 'rw', three additional multi methods for writing to to the attribute either an Int, a Str, or an actual enumerated value.
+If the attribute is also 'rw', three additional multi methods for writing to the attribute either an Int, a Str, or an actual enumerated value.
 
 LICENSE
 =======

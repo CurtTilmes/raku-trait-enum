@@ -88,8 +88,8 @@ Naturally this trait must be used only with integer fields (int32,
 int16, etc.)
 
 If the attribute is also 'rw', three additional multi methods for
-writing to to the attribute either an Int, a Str, or an actual
-enumerated value.
+writing to the attribute either an Int, a Str, or an actual enumerated
+value.
 
 =head1 LICENSE
 
